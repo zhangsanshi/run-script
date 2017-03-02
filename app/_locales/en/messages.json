@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "run script",
+    "description": "run script on page load"
+  },
+  "appDescription": {
+    "message": "run script in html ",
+    "description": "run script on page load"
+  }
+}

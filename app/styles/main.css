@@ -1,0 +1,39 @@
+ul {
+  padding-left:0;
+  margin: 0;
+}
+li {
+  list-style-type: none;
+}
+.menu {
+  width: 108px;
+  padding: 5px;
+}
+.menu li {
+  padding: 5px 0;
+  text-align: center;
+}
+.menu li:hover {
+  background: #eee;
+}
+.menu li.active,
+.menu li:active {
+  background: #2196F3;
+  color: #fff;
+}
+.btn-clear {
+  background: none;
+  border: 0;
+  margin: 0;
+  padding: 0;
+  color: inherit;
+}
+.btn-clear:active,
+.btn-clear:focus
+{
+  outline: 0;
+}
+.main {
+  width: 900px;
+  margin: 0 auto;
+}
